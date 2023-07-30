@@ -39,7 +39,7 @@ app.post("/", function (req, res) {
     url = "https://us21.api.mailchimp.com/3.0/lists/b7feeb4a87";
     var options = {
         method: "POST",
-        auth: "201951173:c79c044d67bc6c7f29b25352edce9bdc-us21"
+        auth: "0f4f0c48d54795b0b0ee273746996ece-us21"
     }
 
     // On success send users to success, otherwise on failure template
